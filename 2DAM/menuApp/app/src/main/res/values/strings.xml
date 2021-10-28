@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">miniCalc3</string>
+    <string name="label1">Ensaladilla rusa</string>
+    <string name="label2">Chicharrones</string>
+    <string name="label3">Papas con choco</string>
+    <string name="label4">Carne al toro</string>
+    <string name="label5">Seleccione:</string>
+    <string name="label6">Intolerancia a </string>
+    <string name="label7">Especificar</string>
+    <string name="label8">Seleccionar</string>
+    <string name="label9">Intolerencias</string>
+    <string name="label10">Lactosa</string>
+    <string name="label11">Gluten</string>
+    <string name="label12">Otras</string>
+    <string name="label13">Modificar</string>
+    <string name="label14">Confirmar comanda:</string>
+    <string name="label15">Confirmar</string>
+
+
+    <string-array name="literales">
+        <item>"Menú sin "</item>
+        <item>"Observaciones: "</item>
+    </string-array>
+
+
+</resources>
